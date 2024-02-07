@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 
-double five_percent(double num)
+double Five_percent(double num)
 {
         double result = num * 1.05;
 

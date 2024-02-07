@@ -1,7 +1,9 @@
 #include <stdio.h>
 #include "main.h"
 
-void test_percent(void)
+int main(void)
 {
-	
+	parser();
+
+	return (0);
 }

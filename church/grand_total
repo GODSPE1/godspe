@@ -2,8 +2,7 @@
 
 void grand()
 {
-	int Grand_Total;
-
+	
 	if ((tal_t + total_others + mflmelfme) - Grand_total == 0)
 	{
 		printf("correct total");
